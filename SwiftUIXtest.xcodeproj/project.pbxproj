@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -15,6 +15,7 @@
 		3D69C1442681A24F00E11B5F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D69C1422681A24F00E11B5F /* LaunchScreen.storyboard */; };
 		3D69C14F2681A24F00E11B5F /* SwiftUIXtestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D69C14E2681A24F00E11B5F /* SwiftUIXtestTests.swift */; };
 		3D69C15A2681A25000E11B5F /* SwiftUIXtestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D69C1592681A25000E11B5F /* SwiftUIXtestUITests.swift */; };
+		3D69C1692681A2C600E11B5F /* SwiftUIX in Frameworks */ = {isa = PBXBuildFile; productRef = 3D69C1682681A2C600E11B5F /* SwiftUIX */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D69C1692681A2C600E11B5F /* SwiftUIX in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -152,6 +154,9 @@
 			dependencies = (
 			);
 			name = SwiftUIXtest;
+			packageProductDependencies = (
+				3D69C1682681A2C600E11B5F /* SwiftUIX */,
+			);
 			productName = SwiftUIXtest;
 			productReference = 3D69C1342681A24D00E11B5F /* SwiftUIXtest.app */;
 			productType = "com.apple.product-type.application";
@@ -223,6 +228,9 @@
 				Base,
 			);
 			mainGroup = 3D69C12B2681A24D00E11B5F;
+			packageReferences = (
+				3D69C1672681A2C600E11B5F /* XCRemoteSwiftPackageReference "SwiftUIX" */,
+			);
 			productRefGroup = 3D69C1352681A24D00E11B5F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -597,6 +605,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		3D69C1672681A2C600E11B5F /* XCRemoteSwiftPackageReference "SwiftUIX" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftUIX/SwiftUIX";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.0.7;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		3D69C1682681A2C600E11B5F /* SwiftUIX */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3D69C1672681A2C600E11B5F /* XCRemoteSwiftPackageReference "SwiftUIX" */;
+			productName = SwiftUIX;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 3D69C12C2681A24D00E11B5F /* Project object */;
 }
