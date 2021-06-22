@@ -1,10 +1,9 @@
 //
-//  ContentView.swift
+//  TextFieldSwiftUI.swift
 //  SwiftUIXtest
 //
 //  Created by TanakaSoushi on 2021/06/22.
 //
-
 import SwiftUI
 import SwiftUIX
 

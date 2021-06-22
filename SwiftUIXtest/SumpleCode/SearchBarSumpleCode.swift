@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  SearchBarSumpleCode.swift
 //  SwiftUIXtest
 //
 //  Created by TanakaSoushi on 2021/06/22.

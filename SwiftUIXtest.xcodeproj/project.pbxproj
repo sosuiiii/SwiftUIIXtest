@@ -50,6 +50,10 @@
 		3D69C1552681A25000E11B5F /* SwiftUIXtestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIXtestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D69C1592681A25000E11B5F /* SwiftUIXtestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIXtestUITests.swift; sourceTree = "<group>"; };
 		3D69C15B2681A25000E11B5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D69C16A2681CB9400E11B5F /* ActivityIndicatorSumpleCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityIndicatorSumpleCode.swift; sourceTree = "<group>"; };
+		3D69C16C2681CBE200E11B5F /* TextFieldSumpleCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldSumpleCode.swift; sourceTree = "<group>"; };
+		3D69C16E2681D43600E11B5F /* TextViewSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewSwiftUI.swift; sourceTree = "<group>"; };
+		3D69C1702681D45900E11B5F /* SearchBarSumpleCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarSumpleCode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +111,7 @@
 				3D69C13D2681A24F00E11B5F /* Assets.xcassets */,
 				3D69C1422681A24F00E11B5F /* LaunchScreen.storyboard */,
 				3D69C1452681A24F00E11B5F /* Info.plist */,
+				3D69C1722681D48D00E11B5F /* SumpleCode */,
 				3D69C13F2681A24F00E11B5F /* Preview Content */,
 			);
 			path = SwiftUIXtest;
@@ -136,6 +141,17 @@
 				3D69C15B2681A25000E11B5F /* Info.plist */,
 			);
 			path = SwiftUIXtestUITests;
+			sourceTree = "<group>";
+		};
+		3D69C1722681D48D00E11B5F /* SumpleCode */ = {
+			isa = PBXGroup;
+			children = (
+				3D69C16A2681CB9400E11B5F /* ActivityIndicatorSumpleCode.swift */,
+				3D69C1702681D45900E11B5F /* SearchBarSumpleCode.swift */,
+				3D69C16C2681CBE200E11B5F /* TextFieldSumpleCode.swift */,
+				3D69C16E2681D43600E11B5F /* TextViewSwiftUI.swift */,
+			);
+			path = SumpleCode;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
