@@ -54,6 +54,7 @@
 		3D69C16C2681CBE200E11B5F /* TextFieldSumpleCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldSumpleCode.swift; sourceTree = "<group>"; };
 		3D69C16E2681D43600E11B5F /* TextViewSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewSwiftUI.swift; sourceTree = "<group>"; };
 		3D69C1702681D45900E11B5F /* SearchBarSumpleCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarSumpleCode.swift; sourceTree = "<group>"; };
+		3D69C1732682E4CF00E11B5F /* ImagePickerSumpleCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerSumpleCode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +151,7 @@
 				3D69C1702681D45900E11B5F /* SearchBarSumpleCode.swift */,
 				3D69C16C2681CBE200E11B5F /* TextFieldSumpleCode.swift */,
 				3D69C16E2681D43600E11B5F /* TextViewSwiftUI.swift */,
+				3D69C1732682E4CF00E11B5F /* ImagePickerSumpleCode.swift */,
 			);
 			path = SumpleCode;
 			sourceTree = "<group>";

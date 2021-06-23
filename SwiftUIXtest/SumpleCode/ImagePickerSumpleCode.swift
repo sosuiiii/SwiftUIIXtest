@@ -1,8 +1,8 @@
 //
-//  ContentView.swift
+//  ImagePickerSumpleCode.swift
 //  SwiftUIXtest
 //
-//  Created by TanakaSoushi on 2021/06/22.
+//  Created by TanakaSoushi on 2021/06/23.
 //
 
 import SwiftUI
