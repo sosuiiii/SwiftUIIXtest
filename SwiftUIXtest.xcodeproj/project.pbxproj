@@ -55,6 +55,9 @@
 		3D69C16E2681D43600E11B5F /* TextViewSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewSwiftUI.swift; sourceTree = "<group>"; };
 		3D69C1702681D45900E11B5F /* SearchBarSumpleCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarSumpleCode.swift; sourceTree = "<group>"; };
 		3D69C1732682E4CF00E11B5F /* ImagePickerSumpleCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerSumpleCode.swift; sourceTree = "<group>"; };
+		3D69C1752682F61000E11B5F /* CocoaScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoaScrollView.swift; sourceTree = "<group>"; };
+		3D69C177268311CB00E11B5F /* ScreenSumpleCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenSumpleCode.swift; sourceTree = "<group>"; };
+		3D69C179268434A900E11B5F /* CocoaList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoaList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +155,9 @@
 				3D69C16C2681CBE200E11B5F /* TextFieldSumpleCode.swift */,
 				3D69C16E2681D43600E11B5F /* TextViewSwiftUI.swift */,
 				3D69C1732682E4CF00E11B5F /* ImagePickerSumpleCode.swift */,
+				3D69C1752682F61000E11B5F /* CocoaScrollView.swift */,
+				3D69C177268311CB00E11B5F /* ScreenSumpleCode.swift */,
+				3D69C179268434A900E11B5F /* CocoaList.swift */,
 			);
 			path = SumpleCode;
 			sourceTree = "<group>";
