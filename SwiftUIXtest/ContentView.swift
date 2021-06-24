@@ -4,30 +4,19 @@
 //
 //  Created by TanakaSoushi on 2021/06/22.
 //
-import UIKit
 import SwiftUI
 import SwiftUIX
 
 struct ContentView: View {
-    let languages = [Language(name: "Swift"),
-                     Language(name: "SwiftUI"),
-                     Language(name: "SwiftUIX"),
-                     Language(name: "RxSwift"),
-                     Language(name: "Combine"),
-                     Language(name: "Flutter")]
+    @State private var showActivityView: Bool = false
     var body: some View {
-        Spacer()
-        CollectionView(languages, rowContent: { language in
-            Text("\(language.name)")
-        })
-        .height(30)
-        .backgroundFill(Color.systemGray6)
-        .padding()
-        Spacer()
-        
+        Button(action: {
+                self.showActivityView = true
+            }) {
+                Image(systemName: "square.and.arrow.up")
+            }
+            .sheet(isPresented: self.$showActivityView) {
+                AppActivityView(activityItems: ["abc"], applicationActivities: nil)
+            }
     }
-}
-struct Language: Identifiable {
-    var id = UUID()
-    var name: String
 }

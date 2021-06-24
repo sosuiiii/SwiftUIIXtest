@@ -5,7 +5,6 @@
 //  Created by TanakaSoushi on 2021/06/24.
 //
 
-import UIKit
 import SwiftUI
 import SwiftUIX
 
