@@ -58,6 +58,7 @@
 		3D69C1752682F61000E11B5F /* CocoaScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoaScrollView.swift; sourceTree = "<group>"; };
 		3D69C177268311CB00E11B5F /* ScreenSumpleCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenSumpleCode.swift; sourceTree = "<group>"; };
 		3D69C179268434A900E11B5F /* CocoaList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoaList.swift; sourceTree = "<group>"; };
+		3D69C17B2684580E00E11B5F /* CollectionViewSumpleCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewSumpleCode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +159,7 @@
 				3D69C1752682F61000E11B5F /* CocoaScrollView.swift */,
 				3D69C177268311CB00E11B5F /* ScreenSumpleCode.swift */,
 				3D69C179268434A900E11B5F /* CocoaList.swift */,
+				3D69C17B2684580E00E11B5F /* CollectionViewSumpleCode.swift */,
 			);
 			path = SumpleCode;
 			sourceTree = "<group>";

@@ -1,9 +1,10 @@
 //
-//  ContentView.swift
+//  CollectionViewSumpleCode.swift
 //  SwiftUIXtest
 //
-//  Created by TanakaSoushi on 2021/06/22.
+//  Created by TanakaSoushi on 2021/06/24.
 //
+
 import UIKit
 import SwiftUI
 import SwiftUIX
