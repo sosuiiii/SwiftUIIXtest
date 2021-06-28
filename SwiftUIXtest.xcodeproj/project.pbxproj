@@ -59,6 +59,8 @@
 		3D69C177268311CB00E11B5F /* ScreenSumpleCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenSumpleCode.swift; sourceTree = "<group>"; };
 		3D69C179268434A900E11B5F /* CocoaList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoaList.swift; sourceTree = "<group>"; };
 		3D69C17B2684580E00E11B5F /* CollectionViewSumpleCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewSumpleCode.swift; sourceTree = "<group>"; };
+		3D81DC8F2689B62300438D92 /* VisualEffectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectView.swift; sourceTree = "<group>"; };
+		3D81DC912689B66700438D92 /* BlurEffectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurEffectView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +162,8 @@
 				3D69C177268311CB00E11B5F /* ScreenSumpleCode.swift */,
 				3D69C179268434A900E11B5F /* CocoaList.swift */,
 				3D69C17B2684580E00E11B5F /* CollectionViewSumpleCode.swift */,
+				3D81DC8F2689B62300438D92 /* VisualEffectView.swift */,
+				3D81DC912689B66700438D92 /* BlurEffectView.swift */,
 			);
 			path = SumpleCode;
 			sourceTree = "<group>";

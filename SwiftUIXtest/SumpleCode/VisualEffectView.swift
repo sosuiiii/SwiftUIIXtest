@@ -1,9 +1,10 @@
 //
-//  ContentView.swift
+//  VisualEffectView.swift
 //  SwiftUIXtest
 //
-//  Created by TanakaSoushi on 2021/06/22.
+//  Created by TanakaSoushi on 2021/06/28.
 //
+
 import SwiftUI
 import SwiftUIX
 
